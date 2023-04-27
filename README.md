@@ -35,6 +35,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40">
   </a>
 
+<a href="https://sqlite.org/index.html">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-sqlite-282687.png" width="40" height="40">
+  </a>
+
   <a href="https://nextjs.org/">
     <img src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.1/1678968590213/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40">
   </a>
@@ -54,4 +58,5 @@
   <a href="https://git-scm.com/">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-225996.png?f=webp&w=256" width="40" height="40">
   </a>
+
 </div>
