@@ -3,9 +3,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-
+<a href="https://www.linkedin.com/in/lukas-lundblad-8498b11b6/">
 <img src="https://user-images.githubusercontent.com/91055417/234880968-8054851c-5c7a-40ea-811a-b73d1f23fcf9.png" width="40" height="40">
-
+</a>
 <h3 align="left">Languages and Tools:</h3>
 
 
