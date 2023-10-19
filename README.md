@@ -61,6 +61,5 @@
 
 </div>
 
-<a href="https://lukaslundblad.vercel.app/">
-<h3 align="left">Portfolio - Click me</h3>
-</a>
+<br/>
+<a href="https://lukaslundblad.vercel.app/"> My portfolio </a>
